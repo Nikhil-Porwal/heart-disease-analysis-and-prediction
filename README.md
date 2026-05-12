@@ -1,0 +1,1 @@
+![Complete Pipeline Structure](screenshots/image.png)
